@@ -1,0 +1,21 @@
+
+# Ambiente virtual Python
+.venv/
+venv/
+
+# Arquivos temporarios Python
+__pycache__/
+*.pyc
+
+# Configuracoes locais do PyCharm
+.idea/
+
+# Arquivos gerados pelo PyInstaller
+build/
+dist/
+*.spec
+# Executavel e pacote de entrega da UNINTER
+Aventura_das_Patinhas_UNINTER/
+Aventura_das_Patinhas_UNINTER.zip
+# Copias de seguranca
+backup_*.py
